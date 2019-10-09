@@ -1,0 +1,19 @@
+.price-risen {
+    color: green;
+}
+.price-fallen {
+    color: red;
+}
+.ant-table-placeholder {
+    min-height: 594px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.icon-reload {
+    margin-left: 5px;
+}
+.ant-table-pagination.ant-pagination {
+    margin: 16px 10px;
+}
